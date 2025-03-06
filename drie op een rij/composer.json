@@ -1,0 +1,10 @@
+{
+    "name": "evdbe/drieopeenrij",
+    "autoload": {
+        "psr-4": {
+            "Drieopeenrij\\": "src/"
+        }
+    },
+    
+    "require": {}
+}
